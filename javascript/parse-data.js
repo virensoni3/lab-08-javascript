@@ -3,6 +3,7 @@
 
   // creates a JavaScript object by parsing the JSON-formatted string from the file
   let obj = JSON.parse(jsonString);
+  console.log(obj);
 
   /*
     EXERCISE 01:
